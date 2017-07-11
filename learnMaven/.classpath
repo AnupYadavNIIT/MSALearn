@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="msa/src/main/java"/>
+	<classpathentry kind="lib" path="msa/target/archive-tmp/msa-1.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="msa/target/msa-1.0-SNAPSHOT.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="msa/target/classes"/>
+</classpath>
